@@ -30,7 +30,7 @@ rope-pytorch/
 - [GPT-NeoX: Improving Language Understanding by Generative Pre-Training](https://arxiv.org/abs/2106.03751)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- [RotaryPositionalEmbeddings](https://docs.pytorch.org/torchtune/stable/generated/torchtune.modules.RotaryPositionalEmbeddings.html)
+- [Rotary Positional Embeddings](https://docs.pytorch.org/torchtune/stable/generated/torchtune.modules.RotaryPositionalEmbeddings.html)
 - [An In-depth exploration of Rotary Position Embedding (RoPE)](https://aiexpjourney.substack.com/p/an-in-depth-exploration-of-rotary-position-embedding-rope-ac351a45c794)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
 
