@@ -18,6 +18,7 @@ rope-pytorch/
 ├── train_demo.py          # Train on toy data (e.g., copy task)
 └── requirements.txt
 ```
+
 ### Possible Extras
 - Support for NTK scaling (used in LLaMA 2 for longer context).
 - **Benchmark**: Compare perplexity with/without RoPE on a small language modeling dataset (like TinyShakespeare).
